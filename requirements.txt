@@ -2,3 +2,6 @@ panel
 hvplot
 scikit-learn
 nbconvert
+altair
+pandas
+numpy
