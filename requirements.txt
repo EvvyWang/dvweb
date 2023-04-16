@@ -2,4 +2,3 @@ panel
 hvplot
 scikit-learn
 nbconvert
-pandas
